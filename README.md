@@ -1,3 +1,3 @@
-# Addon Name
+# TrinketMenu
 
-This is the repository for <Addon Name>. Modified for Ascension.gg. 
+This is the repository for TrinketMenu. Modified for Ascension.gg. 
